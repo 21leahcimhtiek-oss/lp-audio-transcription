@@ -1,0 +1,16 @@
+{
+  "id": "audio-transcription",
+  "name": "Audio Transcription",
+  "tagline": "AI-powered productivity solution",
+  "description": "AI-powered audio-transcription application built for Aurora Market. Modern, responsive design with SaaS monetization.",
+  "category": "productivity",
+  "tags": ["ai", "productivity"],
+  "url": "https://auroramarket.org/audio-transcription",
+  "demo": "https://21leahcimhtiek-oss.github.io/audio-transcription",
+  "repo": "https://github.com/21leahcimhtiek-oss/audio-transcription",
+  "stack": ["HTML", "CSS", "JavaScript"],
+  "status": "mvp",
+  "version": "1.0.0",
+  "author": "Aurora Rayes LLC",
+  "license": "MIT"
+}
